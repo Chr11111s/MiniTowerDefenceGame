@@ -1,0 +1,8 @@
+﻿  main.cpp
+    正在创建库 C:\Users\surface\source\repos\TdGame\x64\Release\Demo.lib 和对象 C:\Users\surface\source\repos\TdGame\x64\Release\Demo.exp
+  正在生成代码
+  50 of 620 functions ( 8.1%) were compiled, the rest were copied from previous compilation.
+    22 functions were new in current compilation
+    96 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Demo.vcxproj -> C:\Users\surface\source\repos\TdGame\x64\Release\Demo.exe
